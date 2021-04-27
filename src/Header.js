@@ -35,7 +35,7 @@ const Header = () => {
     <HeaderStyle>
       <Link to="/">
         <i className="material-icons">music_note</i>
-        <h1>Freetunes</h1>
+        <h1>CS-ITLA GAMER</h1>
         <h2>Tu m&uacute;sica de fondo</h2>
       </Link>
     </HeaderStyle>
